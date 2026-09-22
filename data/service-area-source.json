@@ -1,0 +1,9 @@
+{
+  "slug": "madrid-municipio",
+  "sourceUrl": "https://geoportal.madrid.es/fsdescargas/IDEAM_WBGEOPORTAL/LIMITES_ADMINISTRATIVOS/Termino_Municipal/TopoJSON/Termino_municipal.json",
+  "datasetUrl": "https://datos.madrid.es/dataset/900012-0-limites-administrativos-mapas/downloads",
+  "license": "Condiciones de reutilización del Ayuntamiento de Madrid",
+  "retrievedAt": "2026-09-19T23:05:00.732Z",
+  "checksum": "sha256:cb6425e4f4c2e71f720ae54d5cffff9a45d6f6f519d9755325544d42d95c5c09",
+  "geojsonChecksum": "sha256:3c98c6a42f638ac039ac6e027af701681aad83f5698a547989265e6192f5cb81"
+}
