@@ -68,9 +68,9 @@ Completa el archivo usando los valores mostrados por `npx supabase status`:
 | `APP_BASE_URL` y `ALLOWED_ORIGINS`  | `http://localhost:3000`                       |
 | `VITE_MAPTILER_KEY`                 | Puede conservar el valor ficticio en local    |
 | `UPSTASH_REDIS_REST_URL` y `_TOKEN` | Pueden quedar vacías para el desarrollo local |
-| `CURSOR_SIGNING_SECRET`              | Secreto aleatorio exclusivo para cursores      |
-| `CRON_SECRET`                        | Secreto aleatorio exclusivo para el cron       |
-| `MONITORING_SECRET`                  | Secreto diferente para `/api/ready`             |
+| `CURSOR_SIGNING_SECRET`             | Secreto aleatorio exclusivo para cursores     |
+| `CRON_SECRET`                       | Secreto aleatorio exclusivo para el cron      |
+| `MONITORING_SECRET`                 | Secreto diferente para `/api/ready`           |
 
 Genera dos secretos locales nuevos desde CMD:
 
